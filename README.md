@@ -1,7 +1,7 @@
-# V2
+<details open><summary><h1>V2</h1></summary>
 Mod(s) and config for my Voron 2.4
 
-## Printer config
+Printer config
 <table>
 	<tr>
 		<th>Bed Size</th>
@@ -62,6 +62,8 @@ Mod(s) and config for my Voron 2.4
 			<li><a target=_blank href="https://github.com/nevermore3d/Nevermore_Micro">Nevermore Micro V5</a>
 			<li><a target=_blank href="https://github.com/clee/VoronBFI">Beefy Front Idlers</a>
 			<li><a target=_blank href="https://github.com/falcon14141/Voron_Mods/tree/master/Lovely%20Frog%20Z%20Idler">Lovely Frog Z Idlers</a>
+			<li><a target=_blank href="https://github.com/thrutheframe/HULA_Voron">HULA Foot</a>
 		</ul></td>
 	</tr>
 </table>
+ </details>
